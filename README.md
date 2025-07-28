@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">📊 Aspiring Data Analyst | SQL • Excel • Python • Power BI • Tableau< | Third year Computer Engineering Student</h3>
+<h3 align="center">📊 Aspiring Data Analyst | SQL • Excel • Python • Power BI • Tableau | Third year Computer Engineering Student</h3>
 
 ---
 
